@@ -3,4 +3,7 @@ Final Project for Computer Organization Course
 
 ## Video
 
-![video](video/video.mp4)
+
+https://user-images.githubusercontent.com/48267313/224547907-18f175d9-78ea-4814-b8b1-2b7c1cb2e2fd.mp4
+
+
